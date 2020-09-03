@@ -185,13 +185,6 @@ exports[`BasicTable 🎏  do not render default option 1`] = `
           class="ant-pro-table-toolbar-option"
         >
           <div
-            class="ant-space ant-space-horizontal ant-space-align-center"
-          >
-            <div
-              class="ant-space-item"
-            />
-          </div>
-          <div
             class="ant-pro-table-toolbar-default-option"
           >
             <div
@@ -1538,9 +1531,6 @@ exports[`BasicTable 🎏 base use 1`] = `
           >
             <div
               class="ant-space-item"
-            />
-            <div
-              class="ant-space-item"
               style="margin-right: 8px;"
             >
               <div>
@@ -1932,7 +1922,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 0
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -1973,7 +1963,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 0
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -2211,7 +2201,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 1
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -2252,7 +2242,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 1
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -2490,7 +2480,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 2
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -2531,7 +2521,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 2
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -2769,7 +2759,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 3
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -2810,7 +2800,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 3
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -3048,7 +3038,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 4
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -3089,7 +3079,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 4
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -3327,7 +3317,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 5
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -3368,7 +3358,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 5
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -3606,7 +3596,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 6
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -3647,7 +3637,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 6
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -3885,7 +3875,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 7
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -3926,7 +3916,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 7
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -4164,7 +4154,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 8
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -4205,7 +4195,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 8
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -4443,7 +4433,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 9
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -4484,7 +4474,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 9
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -4722,7 +4712,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 10
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -4763,7 +4753,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 10
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -5001,7 +4991,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 11
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -5042,7 +5032,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 11
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -5280,7 +5270,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 12
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -5321,7 +5311,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 12
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -5559,7 +5549,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 13
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -5600,7 +5590,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 13
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -5838,7 +5828,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 14
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -5879,7 +5869,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 14
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -6117,7 +6107,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 15
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -6158,7 +6148,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 15
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -6396,7 +6386,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 16
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -6437,7 +6427,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 16
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -6675,7 +6665,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 17
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -6716,7 +6706,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 17
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -6954,7 +6944,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 18
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -6995,7 +6985,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 18
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -7233,7 +7223,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                           >
                             Edward King 19
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -7274,7 +7264,7 @@ exports[`BasicTable 🎏 base use 1`] = `
                               Edward King 19
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -7761,13 +7751,6 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
           class="ant-pro-table-toolbar-option"
         >
           <div
-            class="ant-space ant-space-horizontal ant-space-align-center"
-          >
-            <div
-              class="ant-space-item"
-            />
-          </div>
-          <div
             class="ant-pro-table-toolbar-default-option"
           >
             <div
@@ -8079,7 +8062,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 0
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -8120,7 +8103,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 0
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -8358,7 +8341,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 1
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -8399,7 +8382,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 1
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -8637,7 +8620,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 2
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -8678,7 +8661,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 2
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -8916,7 +8899,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 3
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -8957,7 +8940,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 3
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -9195,7 +9178,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 4
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -9236,7 +9219,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 4
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -9474,7 +9457,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 5
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -9515,7 +9498,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 5
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -9753,7 +9736,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 6
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -9794,7 +9777,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 6
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -10032,7 +10015,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 7
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -10073,7 +10056,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 7
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -10311,7 +10294,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 8
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -10352,7 +10335,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 8
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -10590,7 +10573,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 9
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -10631,7 +10614,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 9
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -10869,7 +10852,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 10
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -10910,7 +10893,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 10
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -11148,7 +11131,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 11
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -11189,7 +11172,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 11
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -11427,7 +11410,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 12
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -11468,7 +11451,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 12
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -11706,7 +11689,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 13
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -11747,7 +11730,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 13
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -11985,7 +11968,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 14
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -12026,7 +12009,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 14
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -12264,7 +12247,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 15
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -12305,7 +12288,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 15
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -12543,7 +12526,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 16
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -12584,7 +12567,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 16
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -12822,7 +12805,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 17
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -12863,7 +12846,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 17
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -13101,7 +13084,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 18
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -13142,7 +13125,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 18
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -13380,7 +13363,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                           >
                             Edward King 19
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -13421,7 +13404,7 @@ exports[`BasicTable 🎏 do not render Search  1`] = `
                               Edward King 19
                             </span>
                             <div
-                              aria-label=""
+                              aria-label="Copy"
                               class="ant-typography-copy"
                               role="button"
                               style="border: 0px; background: transparent; padding: 0px; line-height: inherit; display: inline-block;"
@@ -14069,13 +14052,6 @@ exports[`BasicTable 🎏 do not render setting 1`] = `
         <div
           class="ant-pro-table-toolbar-option"
         >
-          <div
-            class="ant-space ant-space-horizontal ant-space-align-center"
-          >
-            <div
-              class="ant-space-item"
-            />
-          </div>
           <div
             class="ant-pro-table-toolbar-default-option"
           >
