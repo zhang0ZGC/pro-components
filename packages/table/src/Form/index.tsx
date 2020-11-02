@@ -449,6 +449,10 @@ const FormSearch = <T, _U = any>({
     submitter: {
       submitButtonProps: {
         loading: submitButtonLoading,
+        htmlType: competentName === 'query-filter' && 'submit',
+      },
+      resetButtonProps: {
+        htmlType: competentName === 'query-filter' && 'reset',
       },
     },
   };
